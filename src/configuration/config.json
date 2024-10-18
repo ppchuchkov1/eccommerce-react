@@ -1,4 +1,4 @@
 {
   "DEV": "http://localhost:5001/api",
-  "PROD": "https://your-production-url.com/api"
+  "PROD": "https://test-express-docker-1.onrender.com"
 }
